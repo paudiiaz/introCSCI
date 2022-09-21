@@ -1,0 +1,2 @@
+# introCSCI
+first c++ code
